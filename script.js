@@ -9,3 +9,6 @@ console.log(imageElement)
 
 let linkElement = document.getElementById("url");
 console.log(linkElement)
+
+let gameSites = document.querySelectorAll("vtt");
+console.log(gameSites );
